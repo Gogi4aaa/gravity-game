@@ -1,0 +1,53 @@
+C:\Users\Georgi\source\repos\gravity game\bin\Debug\netcoreapp3.1\gravity game.exe
+C:\Users\Georgi\source\repos\gravity game\bin\Debug\netcoreapp3.1\gravity game.deps.json
+C:\Users\Georgi\source\repos\gravity game\bin\Debug\netcoreapp3.1\gravity game.runtimeconfig.json
+C:\Users\Georgi\source\repos\gravity game\bin\Debug\netcoreapp3.1\gravity game.runtimeconfig.dev.json
+C:\Users\Georgi\source\repos\gravity game\bin\Debug\netcoreapp3.1\gravity game.dll
+C:\Users\Georgi\source\repos\gravity game\bin\Debug\netcoreapp3.1\gravity game.pdb
+C:\Users\Georgi\source\repos\gravity game\obj\Debug\netcoreapp3.1\gravity game.csproj.AssemblyReference.cache
+C:\Users\Georgi\source\repos\gravity game\obj\Debug\netcoreapp3.1\gravity_game.Form1.resources
+C:\Users\Georgi\source\repos\gravity game\obj\Debug\netcoreapp3.1\gravity_game.Properties.Resources.resources
+C:\Users\Georgi\source\repos\gravity game\obj\Debug\netcoreapp3.1\gravity game.csproj.GenerateResource.cache
+C:\Users\Georgi\source\repos\gravity game\obj\Debug\netcoreapp3.1\gravity game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi\source\repos\gravity game\obj\Debug\netcoreapp3.1\gravity game.AssemblyInfoInputs.cache
+C:\Users\Georgi\source\repos\gravity game\obj\Debug\netcoreapp3.1\gravity game.AssemblyInfo.cs
+C:\Users\Georgi\source\repos\gravity game\obj\Debug\netcoreapp3.1\gravity game.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\source\repos\gravity game\obj\Debug\netcoreapp3.1\gravity game.dll
+C:\Users\Georgi\source\repos\gravity game\obj\Debug\netcoreapp3.1\gravity game.pdb
+C:\Users\Georgi\source\repos\gravity game\obj\Debug\netcoreapp3.1\gravity game.genruntimeconfig.cache
+C:\Users\Georgi\Documents\gravity game\bin\Debug\netcoreapp3.1\gravity game.exe
+C:\Users\Georgi\Documents\gravity game\bin\Debug\netcoreapp3.1\gravity game.deps.json
+C:\Users\Georgi\Documents\gravity game\bin\Debug\netcoreapp3.1\gravity game.runtimeconfig.json
+C:\Users\Georgi\Documents\gravity game\bin\Debug\netcoreapp3.1\gravity game.runtimeconfig.dev.json
+C:\Users\Georgi\Documents\gravity game\bin\Debug\netcoreapp3.1\gravity game.dll
+C:\Users\Georgi\Documents\gravity game\bin\Debug\netcoreapp3.1\gravity game.pdb
+C:\Users\Georgi\Documents\gravity game\obj\Debug\netcoreapp3.1\gravity game.csproj.AssemblyReference.cache
+C:\Users\Georgi\Documents\gravity game\obj\Debug\netcoreapp3.1\gravity_game.Form1.resources
+C:\Users\Georgi\Documents\gravity game\obj\Debug\netcoreapp3.1\gravity_game.Properties.Resources.resources
+C:\Users\Georgi\Documents\gravity game\obj\Debug\netcoreapp3.1\gravity game.csproj.GenerateResource.cache
+C:\Users\Georgi\Documents\gravity game\obj\Debug\netcoreapp3.1\gravity game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi\Documents\gravity game\obj\Debug\netcoreapp3.1\gravity game.AssemblyInfoInputs.cache
+C:\Users\Georgi\Documents\gravity game\obj\Debug\netcoreapp3.1\gravity game.AssemblyInfo.cs
+C:\Users\Georgi\Documents\gravity game\obj\Debug\netcoreapp3.1\gravity game.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Documents\gravity game\obj\Debug\netcoreapp3.1\gravity game.dll
+C:\Users\Georgi\Documents\gravity game\obj\Debug\netcoreapp3.1\gravity game.pdb
+C:\Users\Georgi\Documents\gravity game\obj\Debug\netcoreapp3.1\gravity game.genruntimeconfig.cache
+C:\Users\Georgi\Documents\gravity game  trying to put music\bin\Debug\netcoreapp3.1\gravity game.exe
+C:\Users\Georgi\Documents\gravity game  trying to put music\bin\Debug\netcoreapp3.1\gravity game.deps.json
+C:\Users\Georgi\Documents\gravity game  trying to put music\bin\Debug\netcoreapp3.1\gravity game.runtimeconfig.json
+C:\Users\Georgi\Documents\gravity game  trying to put music\bin\Debug\netcoreapp3.1\gravity game.runtimeconfig.dev.json
+C:\Users\Georgi\Documents\gravity game  trying to put music\bin\Debug\netcoreapp3.1\gravity game.dll
+C:\Users\Georgi\Documents\gravity game  trying to put music\bin\Debug\netcoreapp3.1\gravity game.pdb
+C:\Users\Georgi\Documents\gravity game  trying to put music\obj\Debug\netcoreapp3.1\gravity game.csproj.AssemblyReference.cache
+C:\Users\Georgi\Documents\gravity game  trying to put music\obj\Debug\netcoreapp3.1\gravity_game.Form1.resources
+C:\Users\Georgi\Documents\gravity game  trying to put music\obj\Debug\netcoreapp3.1\gravity_game.Properties.Resources.resources
+C:\Users\Georgi\Documents\gravity game  trying to put music\obj\Debug\netcoreapp3.1\gravity game.csproj.GenerateResource.cache
+C:\Users\Georgi\Documents\gravity game  trying to put music\obj\Debug\netcoreapp3.1\gravity game.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Georgi\Documents\gravity game  trying to put music\obj\Debug\netcoreapp3.1\gravity game.AssemblyInfoInputs.cache
+C:\Users\Georgi\Documents\gravity game  trying to put music\obj\Debug\netcoreapp3.1\gravity game.AssemblyInfo.cs
+C:\Users\Georgi\Documents\gravity game  trying to put music\obj\Debug\netcoreapp3.1\gravity game.csproj.CoreCompileInputs.cache
+C:\Users\Georgi\Documents\gravity game  trying to put music\obj\Debug\netcoreapp3.1\gravity game.dll
+C:\Users\Georgi\Documents\gravity game  trying to put music\obj\Debug\netcoreapp3.1\gravity game.pdb
+C:\Users\Georgi\Documents\gravity game  trying to put music\obj\Debug\netcoreapp3.1\gravity game.genruntimeconfig.cache
+C:\Users\Georgi\Documents\gravity game  trying to put music\obj\Debug\netcoreapp3.1\gravity_game.Menu.resources
+C:\Users\Georgi\Documents\gravity game  trying to put music\obj\Debug\netcoreapp3.1\gravity_game.btn_sound.resources
