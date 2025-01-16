@@ -12,23 +12,66 @@ using System.Media;
 
 namespace gravity_game
 {
-    public partial class Form1 : Form
+    public partial class Form1 : Form, IGameSettings
     {
-        //veriables
-        int gravity;
-        int gravityValue = 8;
-        int obstacleSpeed = 12;
-        int coinSpeed = 12;
-        int coinScore = 0;
-        int coinHighScore = 0;
-        int score = 0;
-        int highScore = 0;
-        bool gameOver = false;
+        private int gravity;
+		private int obstacleSpeed = 12;
+		private int gravityValue = 8;
+		private int coinSpeed = 12;
+		private int coinScore = 0;
+		private int coinHighScore = 0;
+		private int score = 0;
+		private int highScore = 0;
+		public int Gravity
+        {
+            get { return gravity; }
+            set { gravity = value; }
+        }
+
+        public int ObstacleSpeed
+        {
+            get { return obstacleSpeed; }
+            set { obstacleSpeed = value; }
+        }
+
+        public int GravityValue
+        {
+            get { return gravityValue; }
+            set { gravityValue = value; }
+        }
+
+        public int CoinSpeed
+        {
+            get { return coinSpeed; }
+            set { coinSpeed = value; }
+        }
+		public int CoinScore
+		{
+			get { return coinScore; }
+			set { coinScore = value; }
+		}
+		public int CoinHighScore
+		{
+			get { return coinHighScore; }
+			set { coinHighScore = value; }
+		}
+		public int Score
+		{
+			get { return score; }
+			set { score = value; }
+		}
+		public int HighScore
+		{
+			get { return highScore; }
+			set { highScore = value; }
+		}
+		bool gameOver = false;
         SoundPlayer sound = new SoundPlayer("gravityGuy.wav");
         Random random = new Random();
         bool drag = false;
         Point start_point = new Point(0, 0);
-        public Form1()
+
+		public Form1()
         {
             InitializeComponent();
             RestartGame();

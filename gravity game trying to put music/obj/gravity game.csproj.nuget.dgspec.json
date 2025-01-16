@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Georgi\\Documents\\gravity game trying to put music\\gravity game.csproj": {}
+    "C:\\Users\\Georgi\\Documents\\gravity game Final\\gravity game trying to put music\\gravity game.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Georgi\\Documents\\gravity game trying to put music\\gravity game.csproj": {
+    "C:\\Users\\Georgi\\Documents\\gravity game Final\\gravity game trying to put music\\gravity game.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Georgi\\Documents\\gravity game trying to put music\\gravity game.csproj",
+        "projectUniqueName": "C:\\Users\\Georgi\\Documents\\gravity game Final\\gravity game trying to put music\\gravity game.csproj",
         "projectName": "gravity game",
-        "projectPath": "C:\\Users\\Georgi\\Documents\\gravity game trying to put music\\gravity game.csproj",
+        "projectPath": "C:\\Users\\Georgi\\Documents\\gravity game Final\\gravity game trying to put music\\gravity game.csproj",
         "packagesPath": "C:\\Users\\Georgi\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Georgi\\Documents\\gravity game trying to put music\\obj\\",
+        "outputPath": "C:\\Users\\Georgi\\Documents\\gravity game Final\\gravity game trying to put music\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
